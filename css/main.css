@@ -35,7 +35,7 @@
  *    ## timeline
  *  # services
  *  # CTA
- *  # works
+ *  # inspirations
  *  # testimonials
  *  # contact
  *  # footer
@@ -2728,10 +2728,10 @@ input::-moz-focus-inner {
 
 
 /* ===================================================================
- * # works
+ * # inspirations
  *
  * ------------------------------------------------------------------- */
-.s-works {
+.s-inspirations {
   padding-top: 19.2rem;
   padding-bottom: 16rem;
   background-color: #ffffff;
@@ -2889,7 +2889,7 @@ input::-moz-focus-inner {
 
 /* ------------------------------------------------------------------- 
  * responsive:
- * works
+ * inspirations
  * ------------------------------------------------------------------- */
 @media screen and (max-width:1200px) {
   .masonry__brick {
@@ -2943,7 +2943,7 @@ input::-moz-focus-inner {
 }
 
 @media screen and (max-width:800px) {
-  .s-works {
+  .s-inspirationsworks {
     padding-top: 16rem;
   }
 
