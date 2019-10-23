@@ -1632,7 +1632,7 @@ input::-moz-focus-inner {
 
 .header-logo img {
   width: 132px;
-  height: 36px;
+  height: 70px;
   margin: 0;
 }
 
@@ -1826,12 +1826,12 @@ input::-moz-focus-inner {
   .s-header {
     background-color: #050505;
     position: fixed;
-    top: 0;
+    top: 5px;
   }
 
   .header-logo img {
-    width: 128px;
-    height: 30px;
+    width: 132px;
+    height: 70px;
   }
 
   .header-nav-wrap {
